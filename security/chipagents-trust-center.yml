@@ -1,0 +1,16 @@
+generated: '2026-07-18'
+method: searched
+source: https://chipagents.ai/trust-center
+url: https://chipagents.ai/trust-center
+certifications:
+- SOC 2 Type II
+auditor: Insight Assurance
+evidence:
+- source: https://chipagents.ai/trust-center
+  keywords: [soc 2 type ii, attestation, trust center, security, availability, confidentiality]
+notes: >-
+  ChipAgents publishes a Trust Center documenting its SOC 2 Type II attestation
+  (auditor: Insight Assurance), covering the security, availability, and
+  confidentiality of customer data. No additional named frameworks (ISO 27001,
+  PCI DSS, HIPAA, FedRAMP, GDPR) are listed on the page as of this probe. No
+  security.txt, responsible-disclosure policy, or bug-bounty program is published.
